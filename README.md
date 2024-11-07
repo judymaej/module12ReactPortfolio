@@ -59,7 +59,7 @@ This application is deployed on Netlify for live access.
 
 In this project, I utilized peer support in the creating and organizing various files in the code.
 
-Additionally I used learning assistant generating code for components such as About.jsx and Contact.jsx
+Additionally I used learning assistant generating code for components such as About.jsx and Contact.jsx and for generating a template for a react application.
 
 ## License
 
