@@ -5,9 +5,6 @@
 - [Description](#description)
 - [User Story](#user-story)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Deployment](#deployment)
 - [License](#license)
@@ -46,3 +43,21 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Technologies Used
+
+- React: JavaScript library for building user interfaces.
+- Vite: Fast development build tool.
+- React Router: For navigation between sections without page reloads.
+
+## Deployment
+
+This application is deployed on Netlify for live access.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+GitHub: judymaej
