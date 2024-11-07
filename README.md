@@ -7,6 +7,7 @@
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 - [Deployment](#deployment)
+- [Support](#support)
 - [License](#license)
 - [Contact](#contact)
 
