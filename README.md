@@ -54,6 +54,12 @@ npm run dev
 
 This application is deployed on Netlify for live access.
 
+## **Support**
+
+In this project, I utilized peer support in the creating and organizing various files in the code.
+
+Additionally I used learning assistant generating code for components such as About.jsx and Contact.jsx
+
 ## License
 
 This project is licensed under the MIT License.
